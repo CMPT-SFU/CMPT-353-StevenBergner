@@ -12,31 +12,31 @@ There are **12 exercises**, **1 project**, **4 quizzes** and **1 final quiz** in
 - Final Quiz: 6%
 
 ## Labs & Project:
-* [x] Exercise 1: Get Started
+* [x] Exercise 1
 
-- [x] Exercise 2: Plotting
+- [x] Exercise 2
 
-- [x] Exercise 3: Noise Reduction
+- [x] Exercise 3
 
-- [x] Exercise 4: Read File
+- [x] Exercise 4
 
-- [x] Exercise 5: Stat Review
+- [x] Exercise 5
 
-- [x] Lab 6: Working with C-Style String, UTF-8 Decode
+- [x] Exercise 6
 
-- [x] Lab 7: Implement Assembly Function (3)
+- [x] Exercise 7
 
-- [x] Lab 8: Analysis Cache Hits and Branchless Code
+- [x] Exercise 8
 
-- [x] Lab 9: Working with Valgrind, Perf and so more
+- [x] Exercise 9
 
-- [x] Lab 10: Single & Double Precision
+- [x] Exercise 10
 
-- [x] Lab 11: SIMD Assembly and Vectorclass
+- [x] Exercise 11
 
-- [x] Lab 12: Compiler Explorer
+- [x] Exercise 12
 
-- [x] Mini-Project
+- [x] Project
 
 ## Quizzes:
 
