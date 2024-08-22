@@ -14,13 +14,13 @@ There are **12 exercises**, **1 project**, **4 quizzes** and **1 final quiz** in
 ## Labs & Project:
 * [x] Exercise 1: Get Started
 
-- [x] Lab 2: The GNU Debugger
+- [x] Exercise 2: Plotting
 
-- [x] Lab 3: GDB and C
+- [x] Exercise 3: Noise Reduction
 
-- [x] Lab 4: Implement Assembly Function
+- [x] Exercise 4: Read File
 
-- [x] Lab 5: Implement Assembly Function (2)
+- [x] Exercise 5: Stat Review
 
 - [x] Lab 6: Working with C-Style String, UTF-8 Decode
 
@@ -44,5 +44,9 @@ There are **12 exercises**, **1 project**, **4 quizzes** and **1 final quiz** in
 
 - [x] Quiz 2
 
+- [x] Quiz 3
+
+- [x] Quiz 4
+
 ## Final:
-- [x] Final
+- [x] Final Quiz
